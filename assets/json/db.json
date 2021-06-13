@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "name": "Anil",
+      "gender": "male",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "34000",
+      "startDate": "7 Jun 2021",
+      "notes": "",
+      "id": 1604589551457,
+      "profileUrl": "../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Shriniwas",
+      "gender": "male",
+      "departMent": [
+        "Sales"
+      ],
+      "salary": "304500",
+      "startDate": "6 Jun 2021",
+      "notes": "",
+      "id": 1604589594363,
+      "profileUrl": "../assets/profile-images/Ellipse 1.png"
+    },
+    {
+      "name": "Nikhil",
+      "gender": "male",
+      "departMent": [
+        "HR"
+      ],
+      "salary": "23000",
+      "startDate": "7 Jun 2021",
+      "notes": "",
+      "id": 1604589699566,
+      "profileUrl": "../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "name": "Jay",
+      "gender": "male",
+      "departMent": [
+        "Engineering"
+      ],
+      "salary": "245300",
+      "startDate": "6 Jun 2021",
+      "notes": "",
+      "id": 1604589731061,
+      "profileUrl": "../assets/profile-images/Ellipse -3.png"
+    }
+  ]
+}

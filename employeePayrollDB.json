@@ -1,0 +1,40 @@
+{
+  "EmployeePayrollDB": [
+    {
+      "id": 1,
+      "_name": "Sanju",
+      "_gender": "male",
+      "_department": [
+        "Engineering"
+      ],
+      "_salary": "470000",
+      "_startDate": "8 Jun 2021",
+      "_note": "fine",
+      "_profilePic": "../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "id": 2,
+      "_name": "Tushar",
+      "_gender": "male",
+      "_department": [
+        "HR"
+      ],
+      "_salary": "350000",
+      "_startDate": "9 Jun 2021",
+      "_note": "Friendss",
+      "_profilePic": "../assets/profile-images/Ellipse -1.png"
+    },
+    {
+      "_name": "Priyanshu",
+      "_gender": "female",
+      "_department": [
+        "Sales"
+      ],
+      "_salary": "345000",
+      "_startDate": "10 Jun 2021",
+      "_note": "I am sw engineer",
+      "_profilePic": "../assets/profile-images/Ellipse -1.png",
+      "id": 3
+    }
+  ]
+}
